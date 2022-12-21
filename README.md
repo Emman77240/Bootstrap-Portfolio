@@ -1,4 +1,5 @@
 # Bootstrap-Portfolio
+![Portfolio Image](images/Profile%20Page.jpg)
 This repo contains a remake of my portfolio website with Bootstrap
 
 ## Description
